@@ -3,7 +3,7 @@ function greet(name) {
 }
 
 function nicolle(){
-  return "BUONASERA :) ";
+  return " Ciao da Maria :) ";
 }
 
 module.exports = { greet, nicolle };
